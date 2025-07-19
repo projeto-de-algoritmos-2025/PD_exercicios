@@ -1,4 +1,5 @@
-# PD de Exercícios
+
+# Exercícios do Leetcode sobre Programação Dinâmica
 
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
 
@@ -10,21 +11,35 @@
 
 ## Sobre 
 
-O trabalho tem como onjetivo experimentar os algoritmos estudados em classe por meio de exercícios da plataforma LeetCode 
+Neste projeto resolvemos duas questões do tema Programação Dinâmica:
+
+- A primeira questão é a 1172, disponível em [Questão 1172](https://leetcode.com/problems/dinner-plate-stacks/description/?envType=problem-list-v2&envId=ozm4un4c). Ela trata sobre o gerenciamento de pilhas de pratos, resolvida em Python.
+
+- A segunda questão é a 879, disponível em [Questão 879](https://leetcode.com/problems/profitable-schemes/description/?envType=problem-list-v2&envId=ozm4un4c). O desafio consiste em encontrar o número de esquemas lucrativos possíveis, resolvida em Python.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Questão 1172
+#### Hard
+![Resultado da Questão 1172](./imgs/result_Q1172.png)
+
+---
+### Questão 879
+#### Medium
+![Resultado da questão 879](./imgs/result_Q879.png)
+
+---
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+1. Para utilizar as soluções, basta encontrar o código da questão desejada no repositório e copiar.
+2. Abra o site da questão referente no LeetCode e cole o código no campo "code" dentro da página.
+3. Para realizar a execução e teste, aperte o botão "play" na página ao lado do botão "submit".
+
+Obs.: Necessário estar logado na página LeetCode.
 
 
 
