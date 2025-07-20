@@ -4,12 +4,13 @@
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
+
 |Matrícula | Aluno |
 | -- | -- |
 | 20/0059980 | Pedro Miguel Martins de Oliveira dos Santos |
 | 21/1062910 |  Daniel Nunes Duarte |
 
-## Sobre 
+## Sobre
 
 Neste projeto resolvemos duas questões do tema Programação Dinâmica:
 
@@ -20,27 +21,37 @@ Neste projeto resolvemos duas questões do tema Programação Dinâmica:
 ## Screenshots
 
 ### Questão 1172
+
 #### Hard
+
 ![Resultado da Questão 1172](./imgs/result_Q1172.png)
 
 ---
+
 ### Questão 879
+
 #### Medium
+
 ![Resultado da questão 879](./imgs/result_Q879.png)
 
 ---
 
-## Instalação 
-**Linguagem**: Python<br>
+### Questão 198
 
-## Uso 
+#### Medium
+
+![Resultado da questão 879](./imgs/result_q198.png)
+
+---
+
+## Instalação
+
+**Linguagem**: C e Python<br>
+
+## Uso
 
 1. Para utilizar as soluções, basta encontrar o código da questão desejada no repositório e copiar.
 2. Abra o site da questão referente no LeetCode e cole o código no campo "code" dentro da página.
 3. Para realizar a execução e teste, aperte o botão "play" na página ao lado do botão "submit".
 
 Obs.: Necessário estar logado na página LeetCode.
-
-
-
-
