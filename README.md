@@ -28,6 +28,14 @@ Neste projeto resolvemos duas questões do tema Programação Dinâmica:
 
 ---
 
+### Questão 466
+
+#### Hard
+
+![Resultado da Questão 466](./imgs/result_q466.png)
+
+---
+
 ### Questão 879
 
 #### Medium
@@ -40,7 +48,7 @@ Neste projeto resolvemos duas questões do tema Programação Dinâmica:
 
 #### Medium
 
-![Resultado da questão 879](./imgs/result_q198.png)
+![Resultado da questão 198](./imgs/result_q198.png)
 
 ---
 
