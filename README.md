@@ -64,3 +64,7 @@ Neste projeto resolvemos duas questões do tema Programação Dinâmica:
 3. Para realizar a execução e teste, aperte o botão "play" na página ao lado do botão "submit".
 
 Obs.: Necessário estar logado na página LeetCode.
+
+## Apresentação
+
+Vídeo disponível em: [youtube](https://youtu.be/VFubOjOEoFY)
