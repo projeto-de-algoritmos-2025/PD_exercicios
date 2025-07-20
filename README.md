@@ -67,4 +67,4 @@ Obs.: Necessário estar logado na página LeetCode.
 
 ## Apresentação
 
-Vídeo disponível em: [youtube](https://youtu.be/VFubOjOEoFY)
+Vídeo disponível em: [youtube](https://youtu.be/YMob8LBbQ8w)
